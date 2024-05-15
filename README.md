@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on an **automotive workshop management system as my Engineering Thesis**
 
-- 🌱 I’m currently expanding **my knowladge in Java and have started to develop in frontend development as a part of my Engineering Thesis**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/emil-fronczyk-32a226287/?originalsubdomain=pl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emil-fronczyk-32a226287/?originalsubdomain=pl" height="30" width="40" /></a>
