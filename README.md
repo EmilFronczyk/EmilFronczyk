@@ -1,5 +1,5 @@
 <p align="center"><img src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif"/></p>
-<h3 align="center">I am a passionate backend Java backend developer</h3>
+<h3 align="center">I am a passionate Java backend developer</h3>
 
 
 <h3 align="left">Connect with me:</h3>
